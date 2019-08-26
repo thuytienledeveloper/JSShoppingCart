@@ -1,5 +1,5 @@
 # E-commerceJS
-Javascript Shopping Cart
+Javascript E-commerce Shopping Cart from scratch.
 
 
 Live Website:
