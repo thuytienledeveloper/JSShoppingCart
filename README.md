@@ -3,4 +3,4 @@ Javascript E-commerce Shopping Cart from scratch.
 
 
 Live Website:
-https://tienlewebmaster.github.io/E-commerceJS/
+https://tienlewebmaster.github.io/JSShoppingCart/
